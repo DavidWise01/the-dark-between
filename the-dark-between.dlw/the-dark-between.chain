@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 40
 slug  : the-dark-between
-seal  : f7477bdf4a5c9ba528548f1b77f81fa97c7b83614ad25fd05a8152520264d8d7
-prev  : 14454622aeab27cc0b16ee6da68131cf257c68f94f810c42f6ebec5f92e8c2d6
-link  : ad6c298ef61f150624da2320153ee37f5b1b35716e656465360f57ffbc2b5335
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : fdd5d4ab26ae96126c37a331824622e7f64f79077d56846e379502d083eaef75
+prev  : 318c09be7fb4d0a497c6393a2ed9e5ba0534b467e3f1c19b46fb8e098e66410e
+link  : 12fdd14502921d3d77cb181174332b658c0b43567616c1ca7f938b3f2c3c168f
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
